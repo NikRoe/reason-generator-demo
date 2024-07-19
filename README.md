@@ -16,7 +16,7 @@ Follow these steps to get your development env running:
 
    ```bash
    git clone git@github.com/NikRoe/reason-generator-demo.git
-   cd yreason-generator-demo
+   cd reason-generator-demo
    ```
 
 2. **Install NPM packages**
